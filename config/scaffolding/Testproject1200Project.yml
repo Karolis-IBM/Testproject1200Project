@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: Testproject1200Project
+  gitServerName: karolisgit
+  gitUrl: https://github.com/Karolis-IBM
+  gitUsername: Karolis-IBM
+  gitBranch: main
